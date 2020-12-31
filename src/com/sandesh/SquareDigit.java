@@ -11,7 +11,7 @@ public class SquareDigit {
      public int squareDigits(int n) {
 
         String combine = "";
-        String numStr = Integer.toString(n); //Number to String
+        String numStr = Integer.toString(n);
 
         for(int i = 0; i< numStr.length(); i++){
             int square = Character.getNumericValue(numStr.charAt(i)) * Character.getNumericValue(numStr.charAt(i));
