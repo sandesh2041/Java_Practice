@@ -1,4 +1,4 @@
-package com.sandesh;
+package com.java8.streams;
 
 public class Main {
 

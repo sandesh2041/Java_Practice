@@ -1,4 +1,4 @@
-package com.sandesh;
+package com.java8.streams;
 
 //You are asked to square every digit of a number and concatenate them.
 //For example, if we run 9119 through the function, 811181 will come out, because square of 9 is 81 and 1 is 1.

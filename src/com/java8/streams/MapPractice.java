@@ -1,4 +1,4 @@
-package com.sandesh;
+package com.java8.streams;
 
 import java.util.HashMap;
 import java.util.Map;
